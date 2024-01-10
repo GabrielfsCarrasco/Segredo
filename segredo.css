@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Kalam&family=Sacramento&family=Source+Code+Pro:ital,wght@1,600&display=swap');
+body{
+  background-image:linear-gradient(to right, #FF4BFA, #EA4BFA, #B14BFA, #B14BFA);
+}
+h1{color: #ace3fb;
+  text-align-last: center;
+   margin: auto;
+  text-shadow: 2px 2px 0px #fff;
+  font-family: 'Kalam', cursive;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 90px;
+}
+p{
+  text-align-last: center;
+  font-family:'Dancing Script', cursive;
+  font-size: 60px;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: -1px;
+  background-color: beige;
+  width: 650px;
+  height: 83px;
+  border-radius: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: #691654 5px solid;
+  padding: 0 10px 0 0;
+  text-shadow: 2px 2px 0px #000;
+  color: #dcbee0;
+}
+button{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: hotpink;
+  text-decoration: none;  
+  color: #fff;
+  font-weight: bold;
+  font-size: 36px;
+  font-family: 'Kalam', cursive;
+  width: 230px;
+  height: 230px;
+  border: 5px #fff solid;
+  border-radius: 115px;
+  transition: transform 200ms ease-in-out;
+}
+button:hover{
+  background-color: #08506b;
+  color: #fff;
+  cursor: pointer;
+  transform: scale(1.02)
