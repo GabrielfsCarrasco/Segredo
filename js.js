@@ -1,4 +1,4 @@
 function show(){
  document.getElementById("segredo")
-  .innerHTML = "Você Está Linda Hoje 😍";
+  .innerHTML = "Você é Minha Gatinha 😍";
 }
